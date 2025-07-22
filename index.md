@@ -1,3 +1,7 @@
+---
+layout: default
+title: "AIVA OS — Bio-Intelligence Infra Suite"
+---
 # AIVA OS: Public Infrastructure Suite
 
 Welcome to the official infrastructure deployment of AIVA OS — India's third DPI rail.
